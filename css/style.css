@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: floralwhite;
+}
+
+
+
+.logo_name {
+    background-color: floralwhite;
+    font-size: 26px;
+    line-height: 31px;
+
+}
+
+.studio_name_color,
+.menu_nav_color {
+    color: #2196F3;
+}
+
+.menu_nav {
+    background-color: floralwhite;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.head_container {
+    background-color: #2F303A;
+    color: floralwhite;
+    padding-bottom: 200px;
+}
+
+.button_color {
+    background-color:  #2196F3 ;
+    color: floralwhite;
+}
